@@ -1,0 +1,13 @@
+{
+  "id": "business-1",
+  "name": "Faridul Reza Sagor",
+  "address": {
+    "line1": "15/4 Bandan E, Khasdobir, Amberkhana,",
+    "city": "Sylhet",
+    "state": "Sylhet",
+    "country": "Bangladesh",
+    "postalCode": "3100"
+  },
+  "email": "faridul.reza.sagor@gmail.com",
+  "phone": "+880 1953 737832"
+}

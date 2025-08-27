@@ -1,0 +1,6 @@
+{
+  "nextInvoiceNumber": 1002,
+  "taxRate": 0.1,
+  "currency": "USD",
+  "colorTemplate": "gray"
+}

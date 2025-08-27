@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Chonez Stéphane",
+    "companyName": "GABIGO",
+    "email": "contact@gabigo.fr",
+    "address": {
+      "line1": "10 rue de la mare d'ognon,",
+      "city": "Morienval",
+      "country": "France"
+    },
+    "id": "customer-1756307812305",
+    "createdAt": "2025-08-27T15:16:52.304Z",
+    "updatedAt": "2025-08-27T15:16:52.304Z"
+  }
+]

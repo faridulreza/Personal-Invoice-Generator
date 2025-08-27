@@ -1,0 +1,51 @@
+[
+  {
+    "invoiceDate": "2025-08-27",
+    "dueDate": "2025-09-10",
+    "customerId": "customer-1756307812305",
+    "customer": {
+      "name": "Chonez Stéphane",
+      "companyName": "GABIGO",
+      "email": "contact@gabigo.fr",
+      "address": {
+        "line1": "10 rue de la mare d'ognon,",
+        "city": "Morienval",
+        "country": "France"
+      },
+      "id": "customer-1756307812305",
+      "createdAt": "2025-08-27T15:16:52.304Z",
+      "updatedAt": "2025-08-27T15:16:52.304Z"
+    },
+    "businessInfo": {
+      "id": "business-1",
+      "name": "Faridul Reza Sagor",
+      "address": {
+        "line1": "15/4 Bandan E, Khasdobir, Amberkhana,",
+        "city": "Sylhet",
+        "state": "Sylhet",
+        "country": "Bangladesh",
+        "postalCode": "3100"
+      },
+      "email": "faridul.reza.sagor@gmail.com",
+      "phone": "+880 1953 737832"
+    },
+    "items": [
+      {
+        "id": "item-1756307827395",
+        "name": "MyHobbyRoom",
+        "description": "Remaining payment for invoice #A00009",
+        "quantity": 1,
+        "rate": 500,
+        "amount": 500
+      }
+    ],
+    "subtotal": 500,
+    "total": 500,
+    "status": "sent",
+    "notes": "",
+    "invoiceNumber": "A00016",
+    "id": "invoice-1756308071034",
+    "createdAt": "2025-08-27T15:21:11.034Z",
+    "updatedAt": "2025-08-27T16:54:59.701Z"
+  }
+]
